@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Rdszkjcorporation.GitHub.io/sitemap.xml
